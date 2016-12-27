@@ -4,3 +4,4 @@ Bhargav: solved FCC javascript problem
 
 Date : 27/12/2016
 Indhumathi:Solving javascript problems in fcc.
+Arunpandian: successfully retrived data from api
