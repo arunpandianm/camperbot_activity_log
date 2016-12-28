@@ -1,7 +1,25 @@
-Date : 23/12/2016
-Arunpandian: fetching data from JSON
-Bhargav: solved FCC javascript problem
+## Arunpandian
 
-Date : 27/12/2016
-Indhumathi:Solving javascript problems in fcc.
-Arunpandian: successfully retrived data from api
+| Date        | Task           | Status  |
+| ------------- |:-------------:| -----:|
+| 23/12/2016      | fetching data from JSON | started |
+| 27/12/2016      | successfully retrived data from api      |   Completed |
+
+
+## Bhargav
+
+| Date        | Task           | Status  |
+| ------------- |:-------------:| -----:|
+|  23/12/2016 |solved FCC javascript problem|        |
+## MadhanMohanPrasanth
+
+| Date        | Task           | Status  |
+| ------------- |:-------------:| -----:|
+
+
+## Indhumathi
+
+| Date        | Task           | Status  |
+| ------------- |:-------------:| -----:|
+|23/12/2016|Solving javascript problems in fcc.||
+
