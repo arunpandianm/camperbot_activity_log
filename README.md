@@ -21,5 +21,5 @@
 
 | Date        | Task           | Status  |
 | ------------- |:-------------:| -----:|
-|23/12/2016|Solving javascript problems in fcc[200]| 
-28/12/2016 | Solved 15 problems in javascript [count-217]| Learning| 
+|23/12/2016|Solving javascript problems in fcc[200]| In Process |
+28/12/2016 | Solved 15 problems in javascript [count-217]| In process| 
