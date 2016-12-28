@@ -17,6 +17,7 @@
 
 | Date        | Task           | Status  |
 | ------------- |:-------------:| -----:|
+|  28/12/2016 |study javascript basics|    started    |
 
 
 ## Indhumathi
