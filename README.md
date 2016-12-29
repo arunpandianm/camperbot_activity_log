@@ -4,6 +4,8 @@
 | ------------- |:-------------:| -----:|
 | 23/12/2016      | fetching data from JSON | started |
 | 27/12/2016      | successfully retrived data from api      |   Completed |
+| 28/12/2016      | Code optimization      | Started |
+| 29/12/2016      | Code optimization      | InProcess |
 
 
 ## Bhargav
