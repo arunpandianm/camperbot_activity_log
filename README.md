@@ -7,6 +7,7 @@
 | 28/12/2016      | Code optimization      | Started |
 | 29/12/2016      | Code optimization      | InProcess |
 | 30/12/2016      | Code optimization      | Completed |
+| 02/01/2016      | PL/SQL       | Started |
 
 
 ## Bhargav
