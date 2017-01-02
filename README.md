@@ -21,7 +21,7 @@
 
 | Date        | Task           | Status  |
 | ------------- |:-------------:| -----:|
-| 02/01/2016      | Learning java scrpit   | Started |
+| 02/01/2017     | Learning java script   | Started |
 
 ## Indhumathi
 
