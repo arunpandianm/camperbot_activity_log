@@ -15,8 +15,9 @@
 | Date        | Task           | Status  |
 | ------------- |:-------------:| -----:|
 |  23/12/2016 |solved FCC javascript problem| In process |       
-| 02/01/2016      | PL/SQL       | Started |
-
+| 02/01/2017      | PL/SQL       | Started |
+| 03/01/2017      | PL/SQL       | In Process |
+| 03/01/2017      |Solved FCC problems       | 165 (Count) |
 
 ## MadhanMohanPrasanth
 
