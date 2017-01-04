@@ -17,8 +17,8 @@
 |  23/12/2016 |solved FCC javascript problem| In process |       
 | 02/01/2017      | PL/SQL       | Started |
 | 03/01/2017      | PL/SQL       | In Process |
-| 03/01/2017      |Solved FCC problems       | 165 (Count) |
-
+| 03/01/2017      |Solved FCC problems       | 160 (Count) |
+| 04/01/2017      |Solved FCC problems       | 175 (Count) |
 ## MadhanMohanPrasanth
 
 | Date        | Task           | Status  |
@@ -32,5 +32,3 @@
 |23/12/2016|Solving javascript problems in fcc[200]| In Process |
 |28/12/2016 | Solved 15 problems in javascript [count-217]| In process| 
 |29/12/2016 |Attended Git seminar|completed| 
-|03/01/2017 |started to design a simple web page |started|
-|04/01/2017 |completd the task for simple web page |completed|
