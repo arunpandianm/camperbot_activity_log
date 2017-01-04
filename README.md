@@ -32,3 +32,5 @@
 |23/12/2016|Solving javascript problems in fcc[200]| In Process |
 |28/12/2016 | Solved 15 problems in javascript [count-217]| In process| 
 |29/12/2016 |Attended Git seminar|completed| 
+|03/01/2017 |started to design a simple web page |started|
+|04/01/2017 |completd the task for simple web page |completed|
