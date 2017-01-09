@@ -9,6 +9,7 @@
 | 30/12/2016      | Code optimization      | Completed |
 | 02/01/2017      |Learning PL/SQL       | Started |
 | 03/01/2017      |Learning PL/SQL       | In Process |
+| 09/01/2017      |successfully display data in view from db     | Completed |
 
 ## Bhargav
 
