@@ -26,7 +26,8 @@
 
 | Date        | Task           | Status  |
 | ------------- |:-------------:| -----:|
-| 02/01/2017     | Learning java script   | Started |
+|02/01/2017     | Learning java script    | Started |
+|10/01/2017     |Understanding gitter API | started |
 
 ## Indhumathi
 
