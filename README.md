@@ -21,6 +21,7 @@
 | 03/01/2017      | PL/SQL       | In Process |
 | 03/01/2017      |Solved FCC problems       | 160 (Count) |
 | 04/01/2017      |Solved FCC problems       | 175 (Count) |
+|09/01/2017       |c sharp learning          |  started    |
 ## MadhanMohanPrasanth
 
 | Date        | Task           | Status  |
