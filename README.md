@@ -10,6 +10,7 @@
 | 02/01/2017      |Learning PL/SQL       | Started |
 | 03/01/2017      |Learning PL/SQL       | In Process |
 | 09/01/2017      |successfully display data in view from db     | Completed |
+| 10/01/2017      |Sample live page     | Started |
 
 ## Bhargav
 
