@@ -12,6 +12,8 @@
 | 09/01/2017      |successfully display data in view from db     | Completed |
 | 10/01/2017      |Sample live page     | Started |
 | 11/01/2017      |project data in graph from db     | Started |
+| 24/01/2017      |project data in graph from db     | Completed |
+| 25/01/2017      |dashboard     | Completed |
 
 ## Bhargav
 
