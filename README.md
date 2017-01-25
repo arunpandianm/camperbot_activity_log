@@ -39,3 +39,4 @@
 |23/12/2016|Solving javascript problems in fcc[200]| In Process |
 |28/12/2016 | Solved 15 problems in javascript [count-217]| In process| 
 |29/12/2016 |Attended Git seminar|completed| 
+|25/01/2017 |successfully retrieved data from Gitter API|completed| 
