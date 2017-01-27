@@ -14,6 +14,8 @@
 | 11/01/2017      |project data in graph from db     | Started |
 | 24/01/2017      |project data in graph from db     | Completed |
 | 25/01/2017      |dashboard     | Completed |
+| 26/01/2017      |user excluder     | Started |
+| 27/01/2017      |user excluder     | InProcess |
 
 ## Bhargav
 
