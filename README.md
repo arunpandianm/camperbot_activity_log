@@ -48,4 +48,11 @@
 |23/12/2016|Solving javascript problems in fcc[200]| In Process |
 |28/12/2016 | Solved 15 problems in javascript [count-217]| In process| 
 |29/12/2016 |Attended Git seminar|completed| 
+|02/01/2017 |learning javascript tutorial|In process| 
+|06/01/2016 |Completed mini Project given by dushyanth Anna|completed| 
+|08/01/2017 |API study|completed| 
+|27/01/2017 |fetching data from gitter API|started| 
+|29/01/2017 |fetched data from gitter API|completed| 
+|29/01/2017|Fetching data  from FCC API|started| 
+|30/01/2017|Fetching data  from FCC API|started| 
 
