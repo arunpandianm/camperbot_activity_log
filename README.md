@@ -33,6 +33,7 @@
 | 11/01/2017      |Database design   | Started |
 | 25/01/2017      |dashboard     | Completed |
 | 27/01/2017      |user excluder     | InProcess |
+| 30/01/2017      |github auth     | started |
 ## MadhanMohanPrasanth
 
 | Date        | Task           | Status  |
