@@ -16,6 +16,8 @@
 | 25/01/2017      |dashboard     | Completed |
 | 26/01/2017      |user excluder     | Started |
 | 27/01/2017      |user excluder     | InProcess |
+| 28/01/2017      |user excluder     | Completed |
+| 30/01/2017      |  update code using PHP   | InProcess |
 
 ## Bhargav
 
