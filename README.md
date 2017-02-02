@@ -25,7 +25,9 @@
 
 | Date        | Task           | Status  |
 | ------------- |:-------------:| -----:|
-|  23/12/2016 |solved FCC javascript problem| In process |       
+|  23/12/2016 |solved FCC javascript problem| In process |   
+|  27/12/2016 |solved FCC javascript problem| In process |  
+|  28/12/2016 |solved FCC javascript problem| In process |  
 | 02/01/2017      | PL/SQL       | Started |
 | 03/01/2017      | PL/SQL       | In Process |
 | 03/01/2017      |Solved FCC problems       | 160 (Count) |
@@ -36,6 +38,10 @@
 | 25/01/2017      |dashboard     | Completed |
 | 27/01/2017      |user excluder     | InProcess |
 | 30/01/2017      |github auth     | started |
+| 31/01/2017      |github auth     | InProcess |
+| 30/01/2017      |github auth     | started |
+| 01/02/2017      |updating database    | started |
+| 02/02/2017      |updating database    | InProcess |
 ## MadhanMohanPrasanth
 
 | Date        | Task           | Status  |
