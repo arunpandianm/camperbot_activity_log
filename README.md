@@ -47,6 +47,8 @@
 | 01/02/2017      |updating database    | started |
 | 02/02/2017      |updating database    | InProcess |
 | 02/02/2017      |github auth    | InProcess |
+| 13/02/2017      |github   | InProcess |
+
 
 ## MadhanMohanPrasanth
 
