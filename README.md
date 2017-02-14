@@ -43,11 +43,11 @@
 | 27/01/2017      |user excluder     | InProcess |
 | 30/01/2017      |github auth     | started |
 | 31/01/2017      |github auth     | InProcess |
-| 30/01/2017      |github auth     | started |
+| 30/01/2017      |github auth     | InProcess |
 | 01/02/2017      |updating database    | started |
 | 02/02/2017      |updating database    | InProcess |
 | 02/02/2017      |github auth    | InProcess |
-| 13/02/2017      |github   | InProcess |
+| 13/02/2017      |github auth    | InProcess |
 
 
 ## MadhanMohanPrasanth
