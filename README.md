@@ -55,8 +55,11 @@
 
 | Date        | Task           | Status  |
 | ------------- |:-------------:| -----:|
-|02/01/2017     | Learning java script    | Started |
-|10/01/2017     |Understanding gitter API | started |
+|27/12/2016     | Learning html  | Started|
+|20/01/2017     | Learning java script    | Started |
+|02/01/2017     | Learning java script    | In process |
+|12/01/2017     |Understanding gitter API | started |
+|15/01/2017     | fetching data from api  | in process|
 
 ## Indhumathi
 
