@@ -71,4 +71,5 @@
 |29/01/2017 |fetched data from gitter API|completed| 
 |29/01/2017|Fetching data  from FCC API|started| 
 |30/01/2017|Fetching data  from FCC API|started| 
-
+|02/02/2017|Fetching data  from FCC API|In Process| 
+|13/02/2017|Learning Jquery and Ajax  |started| 
