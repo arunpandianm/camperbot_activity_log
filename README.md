@@ -24,6 +24,9 @@
 | 08/02/2017      |  update code using PHP   | Testing |
 | 13/02/2017      |  update code using PHP   | Testing |
 | 14/02/2017      |  update code using PHP   | Testing |
+| 15/02/2017      |  Github authentication   | Started |
+| 16/02/2017      |  Github authentication   | Study |
+| 17/02/2017      |  Github authentication   | InProcess |
 
 
 ## Bhargav
