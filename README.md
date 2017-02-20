@@ -27,6 +27,8 @@
 | 15/02/2017      |  Github authentication   | Started |
 | 16/02/2017      |  Github authentication   | Study |
 | 17/02/2017      |  Github authentication   | InProcess |
+| 18/02/2017      |  Github authentication   | InProcess |
+| 20/02/2017      |  Github authentication   | Completed |
 
 
 ## Bhargav
