@@ -29,6 +29,7 @@
 | 17/02/2017      |  Github authentication   | InProcess |
 | 18/02/2017      |  Github authentication   | InProcess |
 | 20/02/2017      |  Github authentication   | Completed |
+| 21/02/2017      |  Session Handling   | Started |
 
 
 ## Bhargav
