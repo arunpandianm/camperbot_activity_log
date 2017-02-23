@@ -57,6 +57,10 @@
 | 02/02/2017      |updating database    | InProcess |
 | 02/02/2017      |github auth    | InProcess |
 | 13/02/2017      |github auth    | InProcess |
+| 21/02/2017      |github auth   | Completed |
+| 22/02/2017      |montly module  | started|
+| 23/02/2017      |monthly data handling    | In process |
+
 
 
 ## MadhanMohanPrasanth
