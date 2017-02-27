@@ -73,6 +73,7 @@
 |12/01/2017     |Understanding gitter API | started |
 |15/01/2017     | fetching data from api  | in process|
 |22/02/2017     | fetching data from api  | in process|
+|24/02/2017     | Documentation  |Started|
 
 ## Indhumathi
 
