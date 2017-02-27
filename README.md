@@ -72,6 +72,7 @@
 |02/01/2017     | Learning java script    | In process |
 |12/01/2017     |Understanding gitter API | started |
 |15/01/2017     | fetching data from api  | in process|
+|22/02/2017     | fetching data from api  | in process|
 
 ## Indhumathi
 
