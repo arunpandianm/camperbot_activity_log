@@ -70,8 +70,9 @@
 |27/12/2016     | Learning html  | Started|
 |02/01/2017     | Learning java script    | Started |
 |07/01/2017     | Learning java script    | In process |
-|12/01/2017     |Understanding gitter API | started |
-|15/01/2017     | fetching data from api  | In process|
+|09/01/2017     |Understanding gitter API | started |
+|10/01/2017     | fetching data from api  | Started|
+|22/01/2017     | fetching data from api  | In process|
 |22/02/2017     | fetching data from api  | In process|
 |24/02/2017     | Documentation  |Started|
 |27/02/2017     | Documentation  |In process|
